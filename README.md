@@ -69,6 +69,8 @@ Navigate to the desired `.ipynb` file and run the cells.
 
 The dataset used in this project is stored in the `parkinsons_dataset/` directory. Ensure that the dataset is preprocessed and formatted correctly before running the notebooks.
 
+**[Parkinson's Brain MRI Dataset](https://www.kaggle.com/datasets/irfansheriff/parkinsons-brain-mri-dataset)**
+
 ## ⚙️ Usage
 
 1. Choose a model notebook (e.g., `parkinson-mri_resnet50.ipynb`) and open it in Jupyter Notebook.
