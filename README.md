@@ -1,6 +1,6 @@
 
 
-# Parkinson Detection usinf DeepNets Repository 
+# Parkinson Detection using DeepNets Repository 
 
 ## 📌 Overview
 
